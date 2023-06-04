@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/data-s-one/static/css/main.f9ae7e1c.css",
+    "main.js": "/data-s-one/static/js/main.e58e31b6.js",
+    "static/media/pexels-ketut-subiyanto-4126743.jpg": "/data-s-one/static/media/pexels-ketut-subiyanto-4126743.b2d19c9f0e5c36f83a43.jpg",
+    "static/media/pexels-leeloo-thefirst-8970668.jpg": "/data-s-one/static/media/pexels-leeloo-thefirst-8970668.73795211e3420b8c2cd3.jpg",
+    "index.html": "/data-s-one/index.html",
+    "main.f9ae7e1c.css.map": "/data-s-one/static/css/main.f9ae7e1c.css.map",
+    "main.e58e31b6.js.map": "/data-s-one/static/js/main.e58e31b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9ae7e1c.css",
+    "static/js/main.e58e31b6.js"
+  ]
+}
